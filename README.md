@@ -173,7 +173,13 @@ ax.set_ylabel('Fare')
 plt.tight_layout()
 plt.show()
 ```
+**License**
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+**Contact Information**
+
+For any queries or issues, please contact Latha at pulicheralalatha121@gmail.com
 
 
 
